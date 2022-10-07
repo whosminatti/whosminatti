@@ -10,4 +10,4 @@ Migrei para a área de infraestrutura e comecei do zero.
 Foi um período um pouco turbulento e precisei trancar a graduação.
 Não obstante, o desenvolvimento e aprendizados foram gigantescos, tanto em hard como soft skills.
 
-Hoje, de volta a graduação, busco a área de dados, onde posso somar programação e infraestrutura a fim de auxiliar ainda mais as pessoas num futuro orientado a dados.
+Hoje, de volta a graduação, busco somar meus conhecimentos em programação e infraestrutura para crescer e atingir meus objetivos profissionais.
