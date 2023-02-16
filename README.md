@@ -36,6 +36,7 @@ Hello!
   <li>SQL</li> 
 </ul>
 
+You can reach me at my <a href="https://www.linkedin.com/in/leandrominatti/">LinkedIn</a>
 
 <q>
   <i>
