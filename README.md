@@ -1,34 +1,45 @@
-<q>Hope is not a strategy.</q>
-<p>Traditional SRE saying</p>
 
 
-### About me
+## About me
 Hello!
 
-Born and raised in Floripa, I've always had a very strong connection with nature and technology.
 
-Currently, I'm seeking more than just a place to improve myself. 
-I want to help people and organizations to reach their goals and achieve their best!
+<p>
+  Born and raised in Floripa, I've always had a very strong connection with nature and technology.
+</p>
+<p>
+  I seek more than just a place to improve myself. 
+</p>
+<p>
+  I wanna help people and organizations to reach their goals and achieve their best!
+</p>
+<br>
+<p>
+  <b>Currently, I'm changing people's lives and automating brazilian justice with SAJ at Softplan.</b>
+</p>
+<br>
+
+<p>
+  My main skills are:
+</p>
+<ul>
+  <li>Linux</li>
+  <li>Windows Server</li>
+  <li>Zabbix</li>
+  <li>Grafana</li>
+  <li>Docker</li>
+  <li>Python</li>
+  <li>AWS</li>
+  <li>Ansible</li>
+  <li>Terraform</li>
+  <li>Kubernetes</li>
+  <li>SQL</li> 
+</ul>
 
 
-<table>
-  <tr>
-    <th colspan=11> Main Skills: </th>
-  </tr>
-  <tr>
-    <td>Linux</td>
-    <td>Windows Server</td>
-    <td>Zabbix</td>
-    <td>Grafana</td>
-    <td>Docker</td>
-    <td>Python</td>
-    <td>Kubernetes</td>
-    <td>AWS</td>
-    <td>Ansible</td>
-    <td>Terraform</td>
-    <td>SQL</td>
-  </tr>
-</table>
-
-
-
+<q>
+  <i>
+    Hope is not a strategy.
+  </i>
+</q>
+<p>Traditional SRE saying</p>
