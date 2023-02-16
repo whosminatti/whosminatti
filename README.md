@@ -5,24 +5,27 @@
 ### About me
 Hello!
 
-Nascido na ilha da magia, sempre tive uma ligação muito forte com o mar, a natureza e a tecnologia. 
+Born and raised in Floripa, I've always had a very strong connection with nature and technology.
 
-Tenho mais de 5 anos de experiência na área de infraestrutura e 3 anos com desenvolvimento somando experiências em Python e PHP.
+Currently, I'm seeking more than just a place to improve myself. 
+I want to help people and organizations to reach their goals and achieve their best!
 
-Hoje, atuo como SRE na Softplan. 
 
 <table>
   <tr>
-    <th colspan=8> Main Skills: </th>
+    <th colspan=11> Main Skills: </th>
   </tr>
   <tr>
     <td>Linux</td>
-    <td>Docker</td>
-    <td>K8s</td>
+    <td>Windows Server</td>
     <td>Zabbix</td>
     <td>Grafana</td>
-    <td>Windows Server</td>
+    <td>Docker</td>
     <td>Python</td>
+    <td>Kubernetes</td>
+    <td>AWS</td>
+    <td>Ansible</td>
+    <td>Terraform</td>
     <td>SQL</td>
   </tr>
 </table>
