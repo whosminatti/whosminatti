@@ -11,7 +11,7 @@ Hello!
   I seek more than just a place to improve myself. 
 </p>
 <p>
-  I wanna help people and organizations to reach their goals and achieve their best!
+  I want to help people and organizations to reach their goals and achieve their best!
 </p>
 <br>
 <p>
