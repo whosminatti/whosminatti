@@ -4,7 +4,7 @@
 <p>
   I have been passionate about technology since I was 7 years old, when my dad bought our first PC.
   I am always eager to learn about new technologies and how to apply them to enhance maintenance processes.
-  I am completing my degree in Information Systems at UNISUL in the first semester of 2024, where I strengthened my knowledge and skills in programming, infrastructure, analysis, and problem solving.
+  I will complete my degree in Information Systems at UNISUL in the first semester of 2024, where I strengthened my knowledge and skills in programming, infrastructure, analysis, and problem-solving.
 </p><p>
   Currently, I work at Softplan with SAJ, the justice automation system, and together we continue to make a positive impact on people’s lives while also improving the Brazilian justice system. 
 </p><p>
