@@ -8,7 +8,7 @@
 </p><p>
   Currently, I work at Softplan with SAJ, the justice automation system, and together we continue to make a positive impact on people’s lives while also improving the Brazilian justice system. 
 </p><p>
-  <i>My mission is to assist individuals and organizations in achieving their goals and realizing their full potential.</i>  
+  <i>My mission is to assist individuals and organizations in achieving their goals and realize their full potential.</i>  
 </p>
 
 #### My main skills are:
