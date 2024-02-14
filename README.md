@@ -1,46 +1,33 @@
 
 
 ## About me
-Hello!
+<p>
+  I have been passionate about technology since I was 7 years old, when my father bought our first PC.
+  I am always eager to learn about new technologies and how to apply them to enhance maintenance processes.
+  I am completing my degree in Information Systems at UNISUL in the first semester of 2024, where I strengthened my knowledge and skills in programming, infrastructure, analysis, and problem solving.
+</p><p>
+  Currently, I work at Softplan with SAJ, the justice automation system, and together we continue to make a positive impact on people’s lives while also improving the Brazilian justice system. 
+</p><p>
+  <i>My mission is to assist individuals and organizations in achieving their goals and realizing their full potential.</i>  
+</p>
 
-
-<p>
-  Born and raised in Floripa, I've always had a very strong connection with nature and technology.
-</p>
-<p>
-  I seek more than just a place to improve myself. 
-</p>
-<p>
-  I want to help people and organizations to reach their goals and achieve their best!
-</p>
-<br>
-<p>
-  <b>Currently, I'm changing people's lives and automating brazilian justice with SAJ at Softplan.</b>
-</p>
-<br>
-
-<p>
-  My main skills are:
-</p>
+#### My main skills are:
 <ul>
-  <li>Linux</li>
-  <li>Windows Server</li>
-  <li>Zabbix</li>
-  <li>Grafana</li>
-  <li>Docker</li>
+  <li>Terraform</li>
+  <li>Ansible</li>
   <li>Python</li>
   <li>AWS</li>
-  <li>Ansible</li>
-  <li>Terraform</li>
+  <li>Git</li>
+  <li>Linux</li>
+  <li>Docker</li>
   <li>Kubernetes</li>
-  <li>SQL</li> 
+  <li>Grafana</li>
+  <li>Windows Server</li>
+  <li>Zabbix</li>
 </ul>
 
 You can reach me at my <a href="https://www.linkedin.com/in/leandrominatti/">LinkedIn</a>
 
 <q>
-  <i>
-    Hope is not a strategy.
-  </i>
+  Hope is not a strategy.
 </q>
-<p>Traditional SRE saying</p>
