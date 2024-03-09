@@ -2,13 +2,13 @@
 
 ## About me
 <p>
-  I have been passionate about technology since I was 7 years old, when my dad bought our first PC.
-  I am always eager to learn about new technologies and how to apply them to enhance maintenance processes.
-  I will complete my degree in Information Systems at UNISUL in the first semester of 2024, where I strengthened my knowledge and skills in programming, infrastructure, analysis, and problem-solving.
+  I am passionate about technology and innovation, seeking to make a positive impact in people's lives. 
 </p><p>
-  Currently, I work at Softplan with SAJ, the justice automation system, and together we continue to make a positive impact on people’s lives while also improving the Brazilian justice system. 
+  I am completing my degree in Information Systems at the Universidade do Sul de Santa Catarina, where I have reinforced skills in programming, infrastructure, analysis, and problem-solving.
 </p><p>
-  <i>My mission is to assist individuals and organizations in achieving their goals and realize their full potential.</i>  
+Currently, I work at Softplan, one of the largest software companies in the country, as a Site Reliability Engineer/DevOps. In this role, I am responsible for managing infrastructure growth, maintaining and developing deployment and automation scripts, participating in and documenting software and service architecture, configuring and maintaining monitoring for all environments, and supporting deployment and development teams. I have experience in cloud computing with AWS, containerization with Docker, orchestration with Kubernetes, programming in Python, and monitoring with Zabbix and Grafana.
+</p><p>
+I am always seeking to learn new technologies and improve maintenance workflows. I am not just looking for personal growth, but also on a mission to help people and organizations achieve their goals and realize their full potential.
 </p>
 
 #### My main skills are:
