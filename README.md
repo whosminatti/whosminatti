@@ -2,11 +2,14 @@
 
 ## About me
 <p>
-  I am passionate about technology and innovation, seeking to make a positive impact in people's lives. 
-</p><p>
-  I am completing my degree in Information Systems at the Universidade do Sul de Santa Catarina, where I have reinforced skills in programming, infrastructure, analysis, and problem-solving.
-</p><p>
-Currently, I work at Softplan, one of the largest software companies in the country, as a Site Reliability Engineer/DevOps. In this role, I am responsible for managing infrastructure growth, maintaining and developing deployment and automation scripts, participating in and documenting software and service architecture, configuring and maintaining monitoring for all environments, and supporting deployment and development teams. I have experience in cloud computing with AWS, containerization with Docker, orchestration with Kubernetes, programming in Python, and monitoring with Zabbix and Grafana.
+  I’m passionate about technology and innovation, with a strong drive to make a positive impact on people’s lives.
+</p>
+<p>
+  I hold a degree in Information Systems from UNISUL, where I have reinforced skills in programming, infrastructure, analysis, troubleshooting, problem-solving and incident resolution.
+</p>
+<p>
+Currently, I work as a DevOps Engineer at Cresol, one of Brazil’s leading financial cooperatives, where I directly support over 900,000 members. Before this, I also worked as a Site Reliability Engineer at a major legal software company, where I managed infrastructure growth, created and maintained deployment and automation scripts, contributed to software architecture documentation, set up and monitored various environments, and provided support to deployment and development teams.
+
 </p><p>
 I am always seeking to learn new technologies and improve maintenance workflows. I am not just looking for personal growth, but also on a mission to help people and organizations achieve their goals and realize their full potential.
 </p>
@@ -17,13 +20,17 @@ I am always seeking to learn new technologies and improve maintenance workflows.
   <li>Ansible</li>
   <li>Python</li>
   <li>AWS</li>
+  <li>Azure</li>
   <li>Git</li>
+  <li>GitLab</li>
+  <li>GitHub</li>
+  <li>Ci/CD</li>
   <li>Linux</li>
   <li>Docker</li>
   <li>Kubernetes</li>
   <li>Grafana</li>
-  <li>Windows Server</li>
   <li>Zabbix</li>
+  <li>Windows Server</li>
 </ul>
 
 You can reach me at my <a href="https://www.linkedin.com/in/leandrominatti/">LinkedIn</a>
